@@ -15,7 +15,7 @@ const navigation = [
         <div class="flex h-20 items-center justify-between">
           <div class="flex items-center">
             <div class="shrink-0">
-              <a href="/">
+              <a href="/ui/public">
                 <span class="text-xl text-white">Eric<br> Steiner</span>
               </a>
             </div>
